@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+      <!-- Default Open Graph Meta Tags -->
+      <meta property="og:title" content="Default Title"/>
+      <meta property="og:description" content="Default Description"/>
+      <meta property="og:image" content="default-image.png"/>
+      <meta property="og:url" content="default-url.html"/>
+
+  <title>Redirecting...</title>
+</head>
+<body>
+  <script>
+    // Function to get URL parameters
+    function getQueryParam(param) {
+        const urlParams = new URLSearchParams(window.location.search);
+        return urlParams.get(param);
+    }
+
+    // Get the value of 'share' parameter
+    const shareValue = getQueryParam('s');
+
+    switch(shareValue) {
+        case '1':
+            // Update the Open Graph meta tags for share=1
+            document.querySelector('meta[property="og:title"]').setAttribute('content', 'FGPEDIA | FGPEDIA');
+            document.querySelector('meta[property="og:description"]').setAttribute('content', 'Get Information on FGPEDIA');
+            document.querySelector('meta[property="og:image"]').setAttribute('content', 'https://raw.githubusercontent.com/FLIGHNE/FLIGHNE.Github.Io/main/fgdefault.png');
+            document.querySelector('meta[property="og:url"]').setAttribute('content', 'https://www.fgofficial.infinityfreeapp.com/fgwiki?q=home');
+            // Redirect to the specified URL1
+            window.location.href = 'https://www.fgofficial.infinityfreeapp.com/fgwiki?q=Lucy+Incorporated';
+            break;
+        case '2':
+            // Update the Open Graph meta tags for share=2
+            document.querySelector('meta[property="og:title"]').setAttribute('content', 'Lucy Incorporation | FGPEDIA');
+            document.querySelector('meta[property="og:description"]').setAttribute('content', 'Get Information on Lucy Incorporation');
+            document.querySelector('meta[property="og:image"]').setAttribute('content', 'https://flighne.github.io/FG_OFFICAL-CDN_PIC/Lucy_1.png');
+            document.querySelector('meta[property="og:url"]').setAttribute('content', 'https://www.fgofficial.infinityfreeapp.com/fgwiki?q=Lucy+Incorporated');
+            // Redirect to the specified URL2
+            window.location.href = 'https://www.fgofficial.infinityfreeapp.com/fgwiki?q=Lucy+Incorporated';
+            break;
+        // Add more cases as needed
+        case '3':
+            // Update the Open Graph meta tags for share=3
+            document.querySelector('meta[property="og:title"]').setAttribute('content', 'FLIGHNE (CJ) | FGPEDIA');
+            document.querySelector('meta[property="og:description"]').setAttribute('content', 'Get Information on FLIGHNE (CJ)');
+            document.querySelector('meta[property="og:image"]').setAttribute('content', 'https://flighne.github.io/FG_OFFICAL-CDN_PIC/fgflighne.jpg');
+            document.querySelector('meta[property="og:url"]').setAttribute('content', 'https://www.fgofficial.infinityfreeapp.com/fgwiki?q=FLIGHNE');
+            // Redirect to the specified URL3
+            window.location.href = 'https://www.fgofficial.infinityfreeapp.com/fgwiki?q=FLIGHNE';
+            break;
+        case '4':
+            // Update the Open Graph meta tags for share=3
+            document.querySelector('meta[property="og:title"]').setAttribute('content', 'Inverters Studios | FGPEDIA');
+            document.querySelector('meta[property="og:description"]').setAttribute('content', 'Get Information on Inverters Studios');
+            document.querySelector('meta[property="og:image"]').setAttribute('content', 'https://yt3.googleusercontent.com/Qww_29OMHXXanhctotA9EiU8jhqN0kqiTMLSltSvmYoP85LPz5868cH3v_Kez-yIaUDYVDmQ-_I=s160-c-k-c0x00ffffff-no-rj');
+            document.querySelector('meta[property="og:url"]').setAttribute('content', 'https://www.fgofficial.infinityfreeapp.com/fgwiki?q=Inverters+Studios');
+            // Redirect to the specified URL3
+            window.location.href = 'https://www.fgofficial.infinityfreeapp.com/fgwiki?q=Inverters+Studios';
+            break;
+        // Default case if share doesn't match any known value
+        default:
+            console.log('No valid share parameter found.');
+            break;
+    }
+</script>
+</script>
+  
+</body>
+</html>
