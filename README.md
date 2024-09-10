@@ -30,6 +30,7 @@ Install our API to Your Web Application, Application.
 ## Support
 
 For support, email [kangaroogamingapo0731@gmail.com](mailto:kangaroogamingapo0731@gmail.com) or join our Slack channel.
+> View our [Privacy Policy](https://www.fgofficial.infinityfreeapp.com/Privacy) | [Status Page](status.fgofficial.infinityfreeapp.com)
 
 ## Authors
 
