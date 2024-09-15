@@ -9,7 +9,7 @@ This Repository is dedicated for [FGoffical.com](fgofficial.infinityfreeapp.com/
 
 ## Our Company Tree
 
-| Name        | Role           | Since  |
+| Name        | Position           | Since  |
 | ------------- |:-------------:| -----:|
 | FLIGHNE      | CEO & Founder | 2022 - Present |
 | Luizania      | Co-Founder      |   2022 - Present |
