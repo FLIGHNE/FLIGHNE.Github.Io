@@ -1,5 +1,5 @@
 
-# Description
+# Description [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This Repository is dedicated for [FGoffical.com](fgofficial.infinityfreeapp.com/Index) File Hosting. where Admins can save images and videos related to [FG] Graphics.
 > [!NOTE]
