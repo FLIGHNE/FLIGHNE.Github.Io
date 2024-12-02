@@ -87,7 +87,7 @@ The FG Official App is powered by [`React Native`](https://reactnative.dev/) and
 #### Main Page
 
 ```http
-https://www.fgofficial.infinityfreeapp.com/Index
+https://www.fgofficial.infinityfreeapp.com/
 ```
 
 #### API KEYS
