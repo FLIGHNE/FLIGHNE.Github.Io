@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://flighne.github.io/favicons/android-chrome-192x192.png#center" alt="FG LOGO">
 </div>
@@ -75,7 +76,7 @@ The FG Official App is powered by [`React Native`](https://reactnative.dev/) and
   <tr>
     <td colspan="2" align="center" style="padding: 10px;">
       <a href="https://fgofficial.infinityfreeapp.com/download" style="text-decoration: none; color: transparent;">
-        <img src="https://flighne.github.io/fg-logos/getitonFG.png" alt="Get it On FG">
+        <img src="https://flighne.github.io/fg-logos/getitonAPPSIFY.png" alt="Get it On Appsify">
       </a>
       <p align="center">
         <strong>Get it On Appsify</strong>
