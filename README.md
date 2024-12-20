@@ -78,7 +78,7 @@ The FG Official App is powered by [`React Native`](https://reactnative.dev/) and
         <img src="https://flighne.github.io/fg-logos/getitonFG.png" alt="Get it On FG">
       </a>
       <p align="center">
-        <strong>Get it On FG App</strong>
+        <strong>Get it On Appsify</strong>
       </p>
     </td>
   </tr>
