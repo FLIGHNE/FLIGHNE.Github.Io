@@ -6,7 +6,7 @@
 
 # Description [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This Repository is dedicated for [FGoffical.com](fgofficial.infinityfreeapp.com/Index) File Hosting. where Admins can save images and videos related to [FG] Graphics.
+This Repository is dedicated for [`FG Official`](fgofficial.infinityfreeapp.com/Index) File Hosting. where Admins can save images and videos related to [FG] Graphics.
 > [!NOTE]
 > This Repository is for Documentation using codes from this Repository can lead you to legal authorities .
 
@@ -53,7 +53,10 @@ The FG Official App is powered by [`React Native`](https://reactnative.dev/) and
 
 **`SDK Version`** : SDK 51
 
+**`Wiki`** : [FGPEDIA](https://fgofi.x10.mx/f/1)
 
+<br>
+<br>
 <table align="center" border="0" style="border-collapse: collapse;">
   <tr>
     <td align="center" style="padding: 10px;">
@@ -75,7 +78,7 @@ The FG Official App is powered by [`React Native`](https://reactnative.dev/) and
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding: 10px;">
-      <a href="https://fgofficial.infinityfreeapp.com/download" style="text-decoration: none; color: transparent;">
+      <a href="https://fgofi.x10.mx/f/fg-app-download" style="text-decoration: none; color: transparent;">
         <img src="https://flighne.github.io/fg-logos/getitonAPPSIFY.png" alt="Get it On Appsify">
       </a>
       <p align="center">
@@ -84,6 +87,8 @@ The FG Official App is powered by [`React Native`](https://reactnative.dev/) and
     </td>
   </tr>
 </table>
+<br>
+<br>
 
 #### Main Page
 
@@ -103,7 +108,7 @@ https://www.fgofficial.infinityfreeapp.com/
 
 ## Support
 
-For support, email [kangaroogamingapo0731@gmail.com](mailto:kangaroogamingapo0731@gmail.com) or join our Slack channel.
+For support, email [kangaroogamingapo0731@gmail.com](mailto:support@fgofficial.infinityfreeapp.com) or join our Slack channel.
 > View our [Privacy Policy](https://www.fgofficial.infinityfreeapp.com/Privacy) | [Status Page](https://status.fgofficial.infinityfreeapp.com)
 ## License
 
